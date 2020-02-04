@@ -1,0 +1,23 @@
+{
+  "name": "design-patterns",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ahmedshayo26/softech-repo.git"
+  },
+  "author": "Ahmed Shayo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ahmedshayo26/softech-repo/issues"
+  },
+  "homepage": "https://github.com/ahmedshayo26/softech-repo#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "jest": "^25.1.0"
+  }
+}
